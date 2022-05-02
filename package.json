@@ -1,6 +1,6 @@
 {
   "name": "@portive/jwt-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": ".dist/src/index.js",
   "license": "MIT",
   "types": ".dist/src/index.d.ts",
