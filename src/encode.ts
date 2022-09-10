@@ -1,5 +1,5 @@
 import * as s from "superstruct"
-import { JsonObject, JsonValue } from "type-fest"
+import { JsonObject } from "type-fest"
 import JWT from "jsonwebtoken"
 import { validateWithScope } from "./validate-with-scope"
 
