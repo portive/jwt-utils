@@ -1,6 +1,6 @@
 {
   "name": "@forcloud/jwt-utils",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "JWT Utilities for use with for.cloud",
   "keywords": [
     "for.cloud",
