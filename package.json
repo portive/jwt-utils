@@ -1,6 +1,6 @@
 {
   "name": "@forcloud/jwt-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": ".dist/src/index.js",
   "license": "MIT",
   "types": ".dist/src/index.d.ts",
