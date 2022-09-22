@@ -1,6 +1,6 @@
 {
   "name": "@portive/jwt-utils",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "JWT Utilities for use with Portive",
   "keywords": [
     "portive",
