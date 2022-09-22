@@ -1,9 +1,9 @@
 {
-  "name": "@forcloud/jwt-utils",
+  "name": "@portive/jwt-utils",
   "version": "1.0.5",
-  "description": "JWT Utilities for use with for.cloud",
+  "description": "JWT Utilities for use with Portive",
   "keywords": [
-    "for.cloud",
+    "portive",
     "jwt"
   ],
   "license": "MIT",
